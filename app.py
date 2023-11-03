@@ -860,14 +860,16 @@ def upload():
 
         hannanum = Mecab()
 
-        word_list = flatten(hannanum.nouns(test_lyrics[album]))
+        word_list_ko = flatten(hannanum.nouns(test_lyrics[album]))
 
-        if not word_list:
-            tokenized = nltk.word_tokenize(test_lyrics[album].capitalize())
-            nouns = [
-                word for (word, pos) in nltk.pos_tag(tokenized) if (pos[:2] == "NN")
-            ]
-            word_list = flatten(nouns)
+        
+        tokenized = nltk.word_tokenize(test_lyrics[album].capitalize())
+        nouns = [
+            word for (word, pos) in nltk.pos_tag(tokenized) if (pos[:2] == "NN")
+        ]
+        word_list_en = flatten(nouns)
+
+        word_list = word_list_ko + word_list_en
 
         count = Counter(word_list)
         image = Image.open(BytesIO(imagefile.read())).convert("RGB")

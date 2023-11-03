@@ -540,23 +540,62 @@ You would never even know
 인생은 회전목마
 """,
     """
-As a child, you would wait
-And watch from far away
-But you always knew that you'd be the one
-That work while they all play
-In youth, you'd lay
-Awake at night and scheme
-Of all the things that you would change
-But it was just a dream
-Here we are, don't turn away now
-We are the warriors that built this town
-Here we are, don't turn away now
-We are the warriors that built this town
-From dust
-Here we are, don't turn away now (don't turn away)
-We are the warriors that built this town (don't turn away)
-We are the warriors that built this town
-From dust
+Welcome to the wild, no heroes and villains
+Welcome to the war, we've only begun, so
+Pick up your weapon and face it
+There's blood on the crown, go and take it
+You get one shot to make it out alive, so
+Higher and higher you chase it
+It's deep in your bones, go and take it
+This is your moment, now is your time, so
+Prove yourself and
+RISE, RISE
+Make 'em remember you
+RISE
+Push through hell and
+RISE, RISE
+They will remember you
+RISE
+Welcome to the climb up, reach for the summit
+Visions pray that one false step lead the end, so
+Higher and higher you chase it
+It's deep in your blood, go and take it
+This is your moment, take to the skies, go
+Prove yourself and
+RISE, RISE
+Make 'em remember you
+RISE
+Push through hell and
+RISE, RISE
+They will remember you
+RISE
+So get along, so get along, go
+Get along 'long go a lil' harder
+So get along, so get along, go
+Get along 'long go a lil' harder
+And as you fight among the death beneath the dirt
+Do you know yet?
+Do you want it?
+And when the giants call to ask you what you're worth
+Do you know if
+Win or die, you'll
+Prove yourself and
+RISE, RISE
+Make 'em remember you
+RISE
+Push through hell and
+RISE, RISE
+They will remember you
+RISE
+Prove yourself and
+RISE, RISE
+Pick up your weapon and face it
+RISE
+It's deep in your blood, go and take it
+RISE, RISE
+Higher and higher you chase it
+RISE
+RISE, RISE
 """,
     """
 내가 만든 집에서 모두 함께 노래를 합시다

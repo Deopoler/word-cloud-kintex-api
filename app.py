@@ -904,7 +904,7 @@ def upload():
         
         tokenized = nltk.word_tokenize(test_lyrics[album].capitalize())
         nouns = [
-            word for (word, pos) in nltk.pos_tag(tokenized) if (pos[:2] == "NN")
+            word for (word, pos) in nltk.pos_tag(tokenized)
         ]
         word_list_en = flatten(nouns)
 
